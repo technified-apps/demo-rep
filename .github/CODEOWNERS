@@ -1,0 +1,11 @@
+# All files require review by the maintainer
+* @technified-apps
+
+# Security and runtime critical paths — explicit
+uma/                      @technified-apps
+uma/src                   @technified-apps  
+signatures/               @technified-apps
+.github/                  @technified-apps
+CLA.md                    @technified-apps
+NOTICE                    @technified-apps
+LICENSE                   @technified-apps
